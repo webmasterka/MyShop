@@ -11,6 +11,7 @@ The application is an online store website that allows you to add products to th
 ## Technologies
 Project is created with:
 * Java 17
+* Spring boot
 * Maven
 * Hibernate
 * H2
